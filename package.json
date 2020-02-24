@@ -1,0 +1,24 @@
+{
+  "name": "dia-del-estudiante",
+  "version": "1.0.0",
+  "description": "pag para determinar dia del estudiante",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobmac10/dia-del-estudiante.git"
+  },
+  "author": "benjamin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jacobmac10/dia-del-estudiante/issues"
+  },
+  "homepage": "https://github.com/jacobmac10/dia-del-estudiante#readme"
+}
